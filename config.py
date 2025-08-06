@@ -15,7 +15,7 @@ API_HASH = getenv("API_HASH")
 BOT_TOKEN = getenv("BOT_TOKEN")
 BOT_ID = getenv("BOT_ID")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","btw_deva")
+OWNER_USERNAME = getenv("OWNER_USERNAME","crush_hu_tera")
 # --------------------------------------------------------
 BOT_USERNAME = getenv("BOT_USERNAME" , "DEVA_MUSICBOT")
 # --------------------------------------------------------
@@ -55,10 +55,10 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-SOURCE = getenv("SOURCE", "https://github.com/hide-sudo/DEVACLONE")
+SOURCE = getenv("SOURCE", "https://github.com/Suraj08832/clone")
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/hide-sudo/DEVACLONE",
+    "https://github.com/Suraj08832/clone",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -73,9 +73,9 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/BotzEmpire")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/BotzEmpireSupport")
-CHAT = getenv("CHAT", "https://t.me/+MG2n8W4ZpuQwN2Q1")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/bots_update_all")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/about_zefron")
+CHAT = getenv("CHAT", "https://t.me/+Jn3ro4jJ_dE2YjVl")
 # ------------------------------------------------------------------------------
 # -------------------------------------------------------------------------------
 
