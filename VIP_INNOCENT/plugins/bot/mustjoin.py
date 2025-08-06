@@ -6,7 +6,7 @@ from VIP_INNOCENT import app
 
 #--------------------------
 
-MUST_JOIN = "BotzEmpire"
+MUST_JOIN = "bots_update_all"
 #------------------------
 @app.on_message(filters.incoming & filters.private, group=-1)
 async def must_join_channel(app: Client, msg: Message):
